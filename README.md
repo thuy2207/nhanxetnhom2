@@ -16,4 +16,4 @@
 
 - Cần thể hiện rõ hoạt động của Blockchain trong ứng dụng demo.  
 
-## 4. Chấm điểm : 8.5/10
+## 4. Chấm điểm : 9/10
